@@ -1,0 +1,17 @@
+/* Write your code here. */
+.nav-container {
+  display: flex;
+  margin: 10px;
+ 
+  justify-content: space-around;
+}
+.score-topscore-container {
+  display: flex;
+}
+.score-heading {
+  margin-right: 20px;
+}
+.log-png {
+  width: 100px;
+  height: 100px;
+}

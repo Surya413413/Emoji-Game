@@ -1,0 +1,14 @@
+/* Write your code here. */
+.WinOrLoss-container {
+  background-color: #ffffff33;
+  width: 50%;
+  height: 50%;
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.win-emoji {
+  width: 200px;
+  height: 200px;
+}

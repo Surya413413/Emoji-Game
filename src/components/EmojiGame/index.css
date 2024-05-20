@@ -1,0 +1,20 @@
+/* Write your code here. */
+.app-container {
+  background-image: linear-gradient(to right, #9796f0, #fbc7d4);
+  background-size: cover;
+  height: 100vh;
+}
+.undored-list-container {
+  display: flex;
+  width: 80%;
+  height: 80%;
+
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.WinOrLoseCard-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
